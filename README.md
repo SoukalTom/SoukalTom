@@ -1,7 +1,9 @@
 ## 👋Hi there 
 
-💻Vývojář s vášní pro technologie. Tvořím webové stránky a občas sestavím počítač.  
-🧑‍🎓Studoval jsem informatiku na [SPŠ Dopravní a.s.](https://www.sps-dopravni.cz/)  
-📜Absolvoval jsem rekvalifikační kurz [itnetwork.cz](https://www.itnetwork.cz/)
+💻Software engineer with a passion for technology. I make websites and occasionally build a computer.  
+🧑‍🎓Studied [Computer science](https://www.sps-dopravni.cz/pro-uchazece/seznam-oboru/18-20-m-01-informacni-technologie/) at the SPŠ Dopravní a.s. in Czechia  
+📜Completed a retraining course at [itnetwork.cz](https://www.itnetwork.cz/)  
+📚Prepairing for [Faculty of Information Technology CTU in Prague](https://fit.cvut.cz/en)  
 
-![Tomáš's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoukalTom&show_icons=true&theme=dark&locale=cs&rank_icon=github)
+
+![Tomáš's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoukalTom&show_icons=true&theme=dark&rank_icon=github)
