@@ -1,5 +1,8 @@
-## Hi there 👋
+## 👋Hi there 
 
+💻
+🧑‍🎓Studoval jsem na [SPŠ Dopravní a.s.](https://www.sps-dopravni.cz/)  
+📜Absolvoval jsem rekvalifikační kurz [itnetwork.cz](https://www.itnetwork.cz/)
 <!--
 **SoukalTom/SoukalTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
