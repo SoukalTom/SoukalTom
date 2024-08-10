@@ -4,4 +4,4 @@
 🧑‍🎓Studoval jsem na [SPŠ Dopravní a.s.](https://www.sps-dopravni.cz/)  
 📜Absolvoval jsem rekvalifikační kurz [itnetwork.cz](https://www.itnetwork.cz/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoukalTom&show_icons=true&theme=dark)
+![Tomáš's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoukalTom&show_icons=true&theme=dark&locale=cs&rank_icon=github)
