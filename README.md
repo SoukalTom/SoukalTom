@@ -6,4 +6,4 @@
 📚Prepairing for [Faculty of Information Technology CTU in Prague](https://fit.cvut.cz/en)  
 
 
-![Tomáš's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoukalTom&show_icons=true&theme=dark&rank_icon=github)
+![Tomáš's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoukalTom&show_icons=true&theme=dark&rank_icon=github&count_private=true)
