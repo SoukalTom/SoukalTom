@@ -5,9 +5,9 @@
 📜Completed a retraining course at [itnetwork.cz](https://www.itnetwork.cz/)  
 📚Studying at [Faculty of Information Technology CTU in Prague](https://fit.cvut.cz/en)  
 
-
+<!--
 ![Tomáš's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoukalTom&show_icons=true&theme=dark&rank_icon=github&count_private=true)
-
+-->
 ### 🛠️Dev Tech
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
