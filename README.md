@@ -1,6 +1,6 @@
 ## 👋Hi there 
 
-🖥️Software engineer with a passion for technology.
+🖥️Software engineer with a passion for technology.  
 🧑‍🎓Studied [Computer science](https://www.sps-dopravni.cz/pro-uchazece/seznam-oboru/18-20-m-01-informacni-technologie/) at the SPŠ Dopravní a.s. in Czechia  
 📜Completed a retraining course at [itnetwork.cz](https://www.itnetwork.cz/)  
 📚Studying at [Faculty of Information Technology CTU in Prague](https://fit.cvut.cz/en)  
